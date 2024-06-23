@@ -1,1 +1,1 @@
-# shop-html-email
+# Mock HTML Email Campaign for SHEIN
